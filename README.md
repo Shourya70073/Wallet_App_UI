@@ -1,16 +1,9 @@
 # wallet_app_ui
 
-A new Flutter project.
+#This is an Card Screen of an wallet app developed using Flutter.
 
-## Getting Started
+![image](https://user-images.githubusercontent.com/71991617/174868547-0909d8b1-a56a-46b9-b871-e41fb65945e9.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/71991617/174868990-47a9c8be-653e-42dd-b548-30199b07db9f.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
