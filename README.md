@@ -2,7 +2,8 @@
 
 #This is an Card Screen of an wallet app developed using Flutter.
 
-![image](https://user-images.githubusercontent.com/71991617/174868547-0909d8b1-a56a-46b9-b871-e41fb65945e9.png)
+![a9ff7165-347d-4fdc-83ba-ed65a73e552f](https://user-images.githubusercontent.com/71991617/174966384-344e3207-e5c3-4a0a-9e45-b5e9e681fede.jpg)
+
 
 --------------------------------------------------------------------------------------------------------
 
